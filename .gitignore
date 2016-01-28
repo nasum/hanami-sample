@@ -1,0 +1,6 @@
+/db/sample_development
+/db/sample_test
+/public/assets*
+/tmp
+/vendor/bundle
+/.bundle
